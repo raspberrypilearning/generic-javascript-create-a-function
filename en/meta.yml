@@ -1,11 +1,11 @@
-title: generic-javascript-create-a-function
+title: Create a function in JavaScript
 hero_image: images/banner.png
-description: generic-javascript-create-a-function description
+description: Learn how to create a function using JavaScript
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 listed: false
-ingredient: false
+ingredient: true
 interests: "jokes/pranks, sports, art/design, photography, games, outside/weather/nature, space, animals, music/sound"
 technologies: "scratch, python, html/css, micro:bit"
 steps:
