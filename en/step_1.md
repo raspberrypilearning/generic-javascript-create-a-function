@@ -8,7 +8,7 @@ function name_of_function(){
 
 The code you want to be part of the function should go between the braces `{` and `}`.
 
-You can call the function by typing its name
+You can call the function by typing its name:
 
 ```javascript
 name_of_function();
