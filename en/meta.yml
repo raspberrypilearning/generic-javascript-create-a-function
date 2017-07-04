@@ -1,12 +1,13 @@
 title: Create a function in JavaScript
 hero_image: images/banner.png
 description: Learn how to create a function using JavaScript
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+original_url:
 theme: cc-prototype
 duration: 1 # 1, 2 or 3
 listed: false
 ingredient: true
-interests: "jokes/pranks, sports, art/design, photography, games, outside/weather/nature, space, animals, music/sound"
-technologies: "scratch, python, html/css, micro:bit"
+copyedit: true
+interests: ""
+technologies: "javascript"
 steps:
-  - title: Step one
+  - title: Create a function
