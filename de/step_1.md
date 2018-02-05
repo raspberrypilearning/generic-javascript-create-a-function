@@ -1,15 +1,13 @@
-You can create a function using the following code. Replace `name_of_function` with the name of your function - make sure you only include letters, numbers and underscores in the name you choose.
+Sie können eine Funktion mit dem folgenden Code erstellen. Ersetzen | 123_6_0_321 | Name_der_Funktion | 123_7_1_321 | mit dem Namen Ihrer Funktion - achten Sie darauf, dass Sie nur Buchstaben, Ziffern und Unterstriche in den von Ihnen gewählten Namen einfügen.
 
 ```javascript
-function name_of_function(){
-
-}
+Funktion Name_der_Funktion () {}
 ```
 
-The code you want to be part of the function should go between the braces `{` and `}`.
+Der Code, der Teil der Funktion sein soll, sollte zwischen den geschweiften Klammern | 123_6_0_321 | {| 123_7_1_321 | und | 123_6_2_321 |} | 123_7_3_321 |.
 
-You can call the function by typing its name:
+Sie können die Funktion aufrufen, indem Sie ihren Namen eingeben:
 
 ```javascript
-name_of_function();
+Name_der_Funktion ();
 ```
