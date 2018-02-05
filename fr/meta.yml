@@ -1,7 +1,7 @@
 ---
-title: Create a function in JavaScript
-hero_image: images/banner.png
-description: Learn how to create a function using JavaScript
+title: Créer une fonction en JavaScript
+hero_image: images / banner.png
+description: Apprenez à créer une fonction en utilisant JavaScript
 original_url: ""
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "javascript"
 steps:
   - 
-    title: Create a function
+    title: Créer une fonction
