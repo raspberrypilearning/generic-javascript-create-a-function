@@ -1,7 +1,7 @@
 Puoi creare una funzione usando il seguente codice. Al posto di `la_mia_funzione` scrivi il nome della tua funzione. Assicurati di includere solo lettere, numeri e trattini bassi nel nome che sceglierai.
 
 ```javascript
-function la_mia_funzione () {
+function la_mia_funzione() {
 
 }
 ```
