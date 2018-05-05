@@ -1,10 +1,10 @@
-Puedes crear una función usando el siguiente código. Reemplazar | 123_6_0_321 | nombre_de_función | 123_7_1_321 | con el nombre de su función, asegúrese de incluir solo letras, números y guiones bajos en el nombre que elija.
+Puedes crear una función usando el siguiente código. Reemplaza `name_of_function` con el nombre de tu función, asegúrate de incluir solo letras, números y guiones bajos en el nombre que elijas.
 
 ```javascript
 function name_of_function () {}
 ```
 
-El código que desea ser parte de la función debe ir entre las llaves | 123_6_0_321 | {| 123_7_1_321 | y | 123_6_2_321 |} | 123_7_3_321 |.
+El código que quieres que sea parte de la función debe ir entre las llaves `{` y `}`.
 
 Puede llamar a la función escribiendo su nombre:
 
