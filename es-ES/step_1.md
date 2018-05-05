@@ -1,4 +1,4 @@
-Puede crear una función usando el siguiente código. Reemplazar | 123_6_0_321 | nombre_de_función | 123_7_1_321 | con el nombre de su función, asegúrese de incluir solo letras, números y guiones bajos en el nombre que elija.
+Puedes crear una función usando el siguiente código. Reemplazar | 123_6_0_321 | nombre_de_función | 123_7_1_321 | con el nombre de su función, asegúrese de incluir solo letras, números y guiones bajos en el nombre que elija.
 
 ```javascript
 function name_of_function () {}
