@@ -9,5 +9,5 @@ El código que quieres que sea parte de la función debe ir entre las llaves `{`
 Puede llamar a la función escribiendo su nombre:
 
 ```javascript
-name_of_function ();
+name_of_function();
 ```
