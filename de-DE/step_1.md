@@ -1,4 +1,4 @@
-Sie können eine Funktion mit dem folgenden Code erstellen. Ersetzen | 123_6_0_321 | Name_der_Funktion | 123_7_1_321 | mit dem Namen Ihrer Funktion - achten Sie darauf, dass Sie nur Buchstaben, Ziffern und Unterstriche in den von Ihnen gewählten Namen einfügen.
+Du kannst eine Funktion mit dem folgenden Code erstellen. Ersetzen | 123_6_0_321 | Name_der_Funktion | 123_7_1_321 | mit dem Namen Ihrer Funktion - achten Sie darauf, dass Sie nur Buchstaben, Ziffern und Unterstriche in den von Ihnen gewählten Namen einfügen.
 
 ```javascript
 Funktion Name_der_Funktion () {}
