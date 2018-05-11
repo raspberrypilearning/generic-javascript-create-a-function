@@ -1,9 +1,9 @@
 ---
-title: Δημιουργήστε μια συνάρτηση στο JavaScript
-hero_image: εικόνες / banner.png
-description: Μάθετε πώς μπορείτε να δημιουργήσετε μια λειτουργία χρησιμοποιώντας το JavaScript
-original_url: ""
-theme: cc-πρωτότυπο
+title: Δημιούργησε μία συνάρτηση στη JavaScript
+hero_image: images/banner.png
+description: Μάθε πώς μπορείς να δημιουργήσεις μία συνάρτηση στη JavaScript
+original_url:
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
@@ -12,4 +12,4 @@ interests: ""
 technologies: "javascript"
 steps:
   - 
-    title: Δημιουργήστε μια λειτουργία
+    title: Δημιούργησε μία συνάρτηση
