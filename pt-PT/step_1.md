@@ -1,13 +1,14 @@
-Você pode criar uma função usando o seguinte código. Substitua `name_of_function` com o nome da sua função - certifique-se de incluir apenas letras, números e sublinhados no nome que você escolher.
+Podes criar uma função usando o seguinte código. Substitui `name_of_function` com o nome da tua função - certifica-te que incluis apenas letras, números e underscores no nome que escolheres.
 
 ```javascript
-função name_of_function () {}
+function nome_da_funcao(){
+}
 ```
 
-O código que você deseja fazer parte da função deve ir entre os aparelhos `{` e `}`.
+O código que queres que faça parte da função deve ficar entre as chavetas `{` e `}`.
 
-Você pode chamar a função digitando seu nome:
+Podes chamar a função escrevendo o seu nome:
 
 ```javascript
-name_of_function ();
+nome_da_funcao ();
 ```
