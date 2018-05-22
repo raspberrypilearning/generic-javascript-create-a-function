@@ -1,9 +1,9 @@
 ---
-title: Buat fungsi dalam JavaScript
-hero_image: gambar / banner.png
-description: Pelajari cara membuat fungsi menggunakan JavaScript
+title: Membuat sebuah fungsi pada JavaScript
+hero_image: images/banner.png
+description: Pelajari cara membuat sebuah fungsi menggunakan JavaScript
 original_url:
-theme: cc-prototipe
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
@@ -12,4 +12,4 @@ interests: ""
 technologies: "javascript"
 steps:
   - 
-    title: Buat sebuah fungsi
+    title: Membuat sebuah fungsi
