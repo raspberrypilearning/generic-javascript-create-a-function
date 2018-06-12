@@ -1,13 +1,13 @@
-Gallwch greu swyddogaeth gan ddefnyddio'r cod canlynol. Ailosod `name_of_function` gydag enw'ch swyddogaeth - gwnewch yn siŵr eich bod ond yn cynnwys llythyrau, rhifau ac yn tanlinellu yn yr enw a ddewiswch.
+Gallwch greu ffwythiant gan ddefnyddio'r cod hwn. Rhowch enw eich ffwythiant yn lle `enw_eich_ffwythiant` - gwnewch yn siŵr eich bod yn defnyddio dim ond llythrennau, rhifau a thanlinellau yn yr enw yr ydych yn ei ddewis.
 
 ```javascript
-swyddogaeth name_of_function () {}
+function enw_eich_ffwythiant(){}
 ```
 
-Dylai'r cod rydych chi am fod yn rhan o'r swyddogaeth fynd rhwng y braces `{` a `}`.
+Dylai'r cod rydych eisiau ei gynnwys yn y ffwythiant fod rhwng y cyplyswyr `{` a `}`.
 
-Gallwch alw'r swyddogaeth trwy deipio ei enw:
+Gallwch ddefnyddio'r ffwythiant gan deipio ei enw:
 
 ```javascript
-enw_of_function ();
+enw_eich_ffwythiant();
 ```
