@@ -1,9 +1,10 @@
+---
 title: إنشاء دالة في لغة JavaScript
 hero_image: images/banner.png
 description: تعلَّم كيف تنشئ دالة باستخدام JavaScript
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: true
