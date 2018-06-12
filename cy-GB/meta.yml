@@ -1,9 +1,9 @@
 ---
-title: Creu swyddogaeth yn JavaScript
-hero_image: delweddau / banner.png
-description: Dysgwch sut i greu swyddogaeth gan ddefnyddio JavaScript
+title: Creu ffwythiant yn JavaScript
+hero_image: images/banner.png
+description: Dysgwch sut i greu ffwythiant gan ddefnyddio JavaScript
 original_url:
-theme: cc-prototeip
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
@@ -12,4 +12,4 @@ interests: ""
 technologies: "javascript"
 steps:
   - 
-    title: Creu swyddogaeth
+    title: Creu ffwythiant
