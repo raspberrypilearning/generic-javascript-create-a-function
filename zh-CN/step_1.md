@@ -1,4 +1,4 @@
-你可以使用以下代码来创建一个函数。使用你的函数名称来替代 `name_of_function` - 确保你选择的名称中仅包含字母、数字和下划线。
+您可以使用以下代码创建一个函数。 将 `name_of_function` 替换为您的函数名称 - 确保您所选名称中只包含字母，数字和下划线。
 
 ```javascript
 function name_of_function(){
@@ -6,9 +6,9 @@ function name_of_function(){
 }
 ```
 
-你要向函数添加的代码应放在大括号 `{` 和 `}` 之间。
+函数体代码应该位于大括号 `{` 和 `}`之间。
 
-你可以通过输入函数名称来调用函数：
+您可以通过输入名称来调用该函数：
 
 ```javascript
 name_of_function();

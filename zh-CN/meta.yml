@@ -1,13 +1,14 @@
-title: 在 JavaScript 中创建一个函数
+---
+title: 创建JavaScript函数
 hero_image: images/banner.png
-description: 学习如何使用 JavaScript 创建函数
+description: 学习如何创建JavaScript函数
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "javascript"
+technologies: "javaScript"
 steps:
   - title: 创建函数
