@@ -1,15 +1,13 @@
-You can create a function using the following code. Replace `name_of_function` with the name of your function - make sure you only include letters, numbers and underscores in the name you choose.
+Ви можете створити функцію, використовуючи наступний код. Замініть `name_of_function` з назвою вашої функції - переконайтеся, що ви лише вкажете літери, цифри та підкреслення у вибраному вами ім'я.
 
 ```javascript
-function name_of_function(){
-
-}
+функція name_of_function () {}
 ```
 
-The code you want to be part of the function should go between the braces `{` and `}`.
+Код, який ви хочете бути частиною функції, повинен йти між фігурними дужками `{` і `}`.
 
-You can call the function by typing its name:
+Ви можете викликати цю функцію, набравши її ім'я:
 
 ```javascript
-name_of_function();
+name_of_function ();
 ```
