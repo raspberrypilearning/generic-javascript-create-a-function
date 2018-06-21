@@ -1,7 +1,7 @@
-Podes criar uma função usando o seguinte código. Substitui `name_of_function` com o nome da tua função - certifica-te que incluis apenas letras, números e underscores no nome que escolheres.
+Podes criar uma função usando o seguinte código. Substitui `nome_da_função` com o nome da tua função - certifica-te que incluis apenas letras, números e underscores no nome que escolheres.
 
 ```javascript
-function nome_da_funcao(){
+função nome_da_funcao(){
 }
 ```
 
