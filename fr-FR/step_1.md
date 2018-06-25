@@ -1,4 +1,4 @@
-Vous pouvez créer une fonction en utilisant le code suivant. Remplacer | 123_6_0_321 | nom_de_fonction | 123_7_1_321 | avec le nom de votre fonction - assurez-vous d'inclure uniquement des lettres, des chiffres et des traits de soulignement dans le nom que vous choisissez.
+Tu peux créer une fonction en utilisant le code suivant. Remplace `nom_de_fonction` avec le nom de ta fonction - assure-toi d'inclure uniquement des lettres, des chiffres et des traits de soulignement dans le nom que tu choisis.
 
 ```javascript
 function nom_de_fonction(){
@@ -6,9 +6,9 @@ function nom_de_fonction(){
 }
 ```
 
-Le code que vous voulez faire partie de la fonction doit passer entre les accolades `{` et `}`.
+Le code que tu veux inclure dans ta fonction doit passer entre les accolades `{` et `}`.
 
-Vous pouvez appeler la fonction en tapant son nom:
+Tu peux appeler la fonction en tapant son nom:
 
 ```javascript
 nom_de_fonction();
