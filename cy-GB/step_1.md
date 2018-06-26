@@ -1,4 +1,4 @@
-Gallwch greu ffwythiant gan ddefnyddio'r cod hwn. Rhowch enw eich ffwythiant yn lle `enw_eich_ffwythiant` - gwnewch yn siŵr eich bod yn defnyddio dim ond llythrennau, rhifau a thanlinellau yn yr enw yr ydych yn ei ddewis.
+Gelli di greu ffwythiant gan ddefnyddio'r cod hwn. Rhowch enw eich ffwythiant yn lle `enw_eich_ffwythiant` - gwnewch yn siŵr eich bod yn defnyddio dim ond llythrennau, rhifau a thanlinellau yn yr enw yr ydych yn ei ddewis.
 
 ```javascript
 function enw_eich_ffwythiant(){}
