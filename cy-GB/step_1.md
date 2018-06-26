@@ -1,13 +1,13 @@
-Gelli di greu ffwythiant gan ddefnyddio'r cod hwn. Rhowch enw eich ffwythiant yn lle `enw_eich_ffwythiant` - gwnewch yn siŵr eich bod yn defnyddio dim ond llythrennau, rhifau a thanlinellau yn yr enw yr ydych yn ei ddewis.
+Gelli di greu ffwythiant gan ddefnyddio'r cod hwn. Rho enw dy ffwythiant yn lle `enw_dy_ffwythiant` - sicrha dy fod di'n defnyddio dim ond llythrennau, rhifau a thanlinellau yn yr enw rwyt ti'n ei ddewis.
 
 ```javascript
-function enw_eich_ffwythiant(){}
+function enw_dy_ffwythiant(){}
 ```
 
-Dylai'r cod rydych eisiau ei gynnwys yn y ffwythiant fod rhwng y cyplyswyr `{` a `}`.
+Dylai'r cod rwyt ti eisiau ei gynnwys yn y ffwythiant fod rhwng y cyplyswyr `{` a `}`.
 
-Gallwch ddefnyddio'r ffwythiant gan deipio ei enw:
+Gelli di ddefnyddio'r ffwythiant gan deipio ei enw:
 
 ```javascript
-enw_eich_ffwythiant();
+enw_dy_ffwythiant();
 ```
