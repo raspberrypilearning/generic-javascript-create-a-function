@@ -1,10 +1,10 @@
 ---
-title: জাভাস্ক্রিপ্ট একটি ফাংশন তৈরি করুন
-hero_image: ইমেজ / banner.png
-description: জাভাস্ক্রিপ্ট ব্যবহার করে একটি ফাংশন তৈরি করা শিখুন
+title: জাভাস্ক্রিপ্টে একটি ফাংশন তৈরি করুন
+hero_image: images/banner.png
+description: জাভাস্ক্রিপ্ট ব্যবহার করে কিভাবে একটি ফাংশন তৈরি করা শিখুন
 original_url:
-theme: CC-প্রোটোটাইপ
-duration: 1
+theme: cc-prototype
+duration: 0
 listed: false
 ingredient: true
 copyedit: true
