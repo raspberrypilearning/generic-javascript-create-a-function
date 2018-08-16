@@ -1,13 +1,14 @@
-title: JavaScript में फंक्शन बनाएँ
+---
+title: JavaScript में एक फंक्शन बनाएँ
 hero_image: images/banner.png
-description: JavaScript द्वारा फंक्शन बनाना सीखें
+description: जाने कैसे JavaScript में फंक्शन बनाएँ
 original_url:
 theme: cc-prototype
-duration: 1 # 1, 2 or 3
+duration: 1
 listed: false
 ingredient: true
 copyedit: true
-interests: “"
-technologies: “javascript"
+interests: ""
+technologies: "javascript"
 steps:
   - title: फंक्शन बनाएँ
