@@ -1,15 +1,15 @@
 ---
-title: Креирајте функцију у ЈаваСцрипту
-hero_image: имагес / баннер.пнг
-description: Сазнајте како креирати функцију помоћу ЈаваСцрипт-а
+title: Креирајте функцију у JavaScript-у
+hero_image: images/banner.png
+description: Научите како креирати функцију у JavaScript-у
 original_url:
-theme: цц-прототип
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "јавасцрипт"
+technologies: "javascript"
 steps:
   - 
     title: Креирајте функцију
