@@ -1,4 +1,4 @@
-Możesz utworzyć funkcję za pomocą następującego kodu. Zastąp `name_of_function` nazwą swojej funkcji - upewnij się, że w wybranej nazwie wpisujesz tylko litery, cyfry i podkreślenia.
+Możesz utworzyć funkcję za pomocą następującego kodu. Zastąp `nazwa_funkcji` nazwą swojej funkcji - upewnij się, że w wybranej nazwie wpisujesz tylko litery, cyfry i znaki podkreślenia.
 
 ```javascript
 function nazwa_funkcji () {}
