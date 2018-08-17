@@ -4,10 +4,10 @@ Możesz utworzyć funkcję za pomocą następującego kodu. Zastąp `name_of_fun
 function nazwa_funkcji () {}
 ```
 
-Kod, który chcesz włączyć do funkcji, powinien znajdować się między nawiasem kontaktowym `{` i `}`.
+Kod, który chcesz włączyć do funkcji, powinien znajdować się między nawiasami klamrowymi `{` i `}`.
 
 Możesz wywołać funkcję, wpisując jej nazwę:
 
 ```javascript
-nazwa_funkcji ();
+nazwa_funkcji();
 ```
