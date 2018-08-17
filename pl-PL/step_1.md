@@ -4,7 +4,7 @@ Możesz utworzyć funkcję za pomocą następującego kodu. Zastąp `nazwa_funkc
 function nazwa_funkcji () {}
 ```
 
-Kod, który ma być treścią funkcji, powinien znajdować się między nawiasami klamrowymi `{` i `}`.
+Kod, który ma być zawartością funkcji, powinien znajdować się między nawiasami klamrowymi `{` i `}`.
 
 Możesz wywołać funkcję, wpisując jej nazwę:
 
