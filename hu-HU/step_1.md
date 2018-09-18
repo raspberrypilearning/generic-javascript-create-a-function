@@ -1,15 +1,15 @@
-A következő kóddal létrehozhat egy funkciót. Cserélje `name_of_function` a neve a funkció - győződjön meg róla, hogy csak azokat a betűket, számokat és aláhúzás a nevet választja.
+A következő kóddal hozhatsz létre egy függvényt. Cseréld le a `függvény_neve` szöveget a függvény nevére - vigyázz, hogy csak betűket, számokat és aláhúzásjeleket használhatsz a függvénynévben.
 
 ```javascript
-függvény function_name () {
+function függvény_neve () {
 
 }
 ```
 
-A funkció részét képező kódnak a `{` és `}`zárójelek között kell lennie.
+A függvény részét képező kódnak a `{` és `}`zárójelek között kell lennie.
 
-A funkció nevét megadhatja:
+A függvényt a neve megadásával hívhatod meg:
 
 ```javascript
-name_of_function ();
+függvény_neve();
 ```
