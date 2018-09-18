@@ -1,13 +1,15 @@
-Aşağıdaki kodu kullanarak bir işlev oluşturabilirsiniz. Değiştir `name_of_function` senin fonksiyonun adı ile - Yalnızca harf, rakam dahil ve seçtiğiniz adına altını emin olun.
+Aşağıdaki kodu kullanarak bir fonksiyon oluşturabilirsiniz. `fonksiyonun_adi`'nı oluşturmak istediğiniz fonksiyonun adı ile değiştirin - seçtiğiniz ismin sadece harf, sayı ve alt çizgi içerdiğinden emin olun.
 
 ```javascript
-işlev adı_of_function () {}
+function fonksiyonun_adi(){
+
+}
 ```
 
-İşlevin bir parçası olmak istediğiniz kod `{` ve `}`arasındaki ayraçlar arasında olmalıdır.
+Fonksiyonun bir parçası olmasını istediğiniz kod `{` ve `}` ayraçları arasında olmalıdır.
 
-İsmini yazarak işlevi çağırabilirsiniz:
+İsmini yazarak fonksiyonu çağırabilirsiniz:
 
 ```javascript
-name_of_function ();
+fonksiyonun_adi();
 ```
