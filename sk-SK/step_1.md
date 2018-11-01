@@ -1,4 +1,4 @@
-Funkciu môžete vytvoriť pomocou nasledujúceho kódu. Nahradiť `názov_funkcie` s názvom vašej funkcie - uistite sa, že obsahujú iba písmená, čísla a podčiarknutia v názve, ktorý si vyberiete.
+Funkciu môžete vytvoriť pomocou nasledujúceho kódu. `nazov_funkcie` nahradíte názvom vašej funkcie - uistite sa, že váš názov obsahuje len písmená, číslice a podtrhovníky.
 
 ```javascript
 function nazov_funkcie(){
@@ -6,9 +6,9 @@ function nazov_funkcie(){
 }
 ```
 
-Kód, ktorý chcete byť súčasťou funkcie, by mal prechádzať medzi závorami `{` a `}`.
+Kód, ktorý je telom funkcie, by sa mal nachádzať medzi zátvorkami `{` a `}`.
 
-Funkciu môžete zavolať zadaním jej názvu:
+Funkciu zavoláte napísaním jej názvu:
 
 ```javascript
 nazov_funkcie();
