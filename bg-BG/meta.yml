@@ -1,15 +1,15 @@
 ---
 title: Създайте функция в JavaScript
-hero_image: изображения / banner.png
-description: Научете как да създадете функция, като използвате JavaScript
+hero_image: images/banner.png
+description: Научете се как да създавате функция, използвайки JavaScript
 original_url:
-theme: сс-прототип
+theme: сс-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "JavaScript"
+technologies: "javascript"
 steps:
   - 
     title: Създайте функция
