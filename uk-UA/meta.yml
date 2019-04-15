@@ -1,9 +1,9 @@
 ---
 title: Створіть функцію в JavaScript
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Дізнайтеся, як створити функцію за допомогою JavaScript
 original_url:
-theme: cc-прототип
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
