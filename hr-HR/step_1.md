@@ -13,3 +13,7 @@ Funkciju možeš pozvati upisivanjem njenog naziva:
 ```javascript
 naziv_funkcije();
 ```
+
+Prijevod članova zajednice
+Ovaj je projekt preveo/la [Vedran Maršić] i pregledao/la [Maja Manojlović].
+Naši nevjerojatni volonteri prevoditelji pomažu nam da djeci širom svijeta pružimo priliku da nauče programirati. Možete nam pomoći da dosegnemo više djece prevođenjem naših projekata - pročitajte više na [rpf.io/translators](https://rpf.io/translators).
