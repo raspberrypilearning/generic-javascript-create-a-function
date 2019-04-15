@@ -1,4 +1,4 @@
-Saate järgmist koodi kasutades funktsiooni koostada. Asenda `funktsiooni_nimi` oma funktsiooni nimega - veendu, et sinu valitud nimi sisaldaks ainult tähte, numbreid ja allkriipse.
+Saad järgmist koodi kasutades funktsiooni koostada. Asenda `funktsiooni_nimi` oma funktsiooni nimega - veendu, et sinu valitud nimi sisaldaks ainult tähte, numbreid ja allkriipse.
 
 ```javascript
 funktsioon funktsiooni_nimi(){
