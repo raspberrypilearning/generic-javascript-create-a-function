@@ -1,7 +1,7 @@
 ---
-title: Vytvorte funkciu v jazyku JavaScript
+title: Vytvorenie funkcie v jazyku JavaScript
 hero_image: images/banner.png
-description: Naučíte sa, ako vytvoriť funkciu v jazyku JavaScript
+description: Naučíš sa, ako vytvoriť funkciu v jazyku JavaScript
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "javascript"
 steps:
   - 
-    title: Vytvoriť funkciu
+    title: Vytvorenie funkcie
