@@ -9,6 +9,6 @@ listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "자바 스크립트"
+technologies: "javascript"
 steps:
   - title: 함수 만들기
