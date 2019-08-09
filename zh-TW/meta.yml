@@ -1,15 +1,15 @@
 ---
-title: 用JavaScript創建一個函數
+title: 用 JavaScript 創建一個函數
 hero_image: 圖片/ banner.png
-description: 了解如何使用JavaScript創建功能
+description: 學習如何使用 JavaScript 創建函式
 original_url:
-theme: CC-原型
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "JavaScript的"
+technologies: "javascript"
 steps:
   - 
-    title: 創建一個函數
+    title: 創建一個函式
