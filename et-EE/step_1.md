@@ -6,7 +6,7 @@ funktsioon funktsiooni_nimi(){
 }
 ```
 
-Kood, mida tahad funktsioonis kasutada, peaks olema sulgude `{` ja `}` vahel.
+Kood, mida tahad funktsioonis kasutada, peaks olema loogeliste sulgude `{` ja `}` vahel.
 
 Saad funktsiooni käivitada, trükkides selle nime:
 
