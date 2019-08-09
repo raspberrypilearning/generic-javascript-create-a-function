@@ -1,15 +1,15 @@
 ---
-title: Creați o funcție în JavaScript
-hero_image: images / banner.png
-description: Învățați cum să creați o funcție utilizând JavaScript
+title: Creează o funcție în JavaScript
+hero_image: images/banner.png
+description: Învață cum să creezi o funcție folosind JavaScript
 original_url:
-theme: cc-prototip
+theme: cc-prototype
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
-technologies: "JavaScript"
+technologies: "javascript"
 steps:
   - 
-    title: Creați o funcție
+    title: Creează o funcție
