@@ -6,9 +6,9 @@ function name_of_function(){
 }
 ```
 
-The code you want to be part of the function should go between the braces `{` and `}`.
+ඔබට කාර්යයේ(function එකේ) කොටසක් වීමට අවශ්‍ය කේතය(code එක) සඟළ වරහන් `{` සහ `}` අතර විය යුතුය.
 
-You can call the function by typing its name:
+කාර්යයේ(function එකේ) නම ටයිප් කිරීමෙන් ඔබට එය ඇමතිය(call) හැකිය:
 
 ```javascript
 name_of_function();
