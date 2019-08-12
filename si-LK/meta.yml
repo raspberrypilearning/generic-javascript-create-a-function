@@ -1,7 +1,7 @@
 ---
-title: Javascript කාර්යයක්(function එකක්) සෑදීම 
+title: Javascript කාර්යයක්(function එකක්) නිර්මාණය කිරීම 
 hero_image: images / banner.png
-description: Learn how to create a function using JavaScript
+description: JavaScrit මගින් කාර්යයක්(function එකක්) නිර්මාණය කරන්නේ කෙසේදැයි ඉගෙන ගැනීම
 original_url:
 theme: cc-ප්‍රදර්ශකය
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "javascript"
 steps:
   - 
-    title: Create a function
+    title: කාර්යයක්(function එකක්) නිර්මාණය කිරීම
