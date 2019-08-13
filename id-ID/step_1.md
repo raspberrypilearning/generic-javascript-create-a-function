@@ -1,7 +1,9 @@
-Kamu bisa membuat sebuah fungsi menggunakan kode berikut. Ganti `name_of_function` dengan nama fungsi Kamu - pastikan Kamu hanya menyertakan huruf, angka dan garis bawah untuk nama yang Kamu pilih.
+Kamu bisa membuat sebuah fungsi menggunakan kode berikut. Ganti `nama_fungsi` dengan nama fungsi Kamu - pastikan Kamu hanya menyertakan huruf, angka dan garis bawah untuk nama yang Kamu pilih.
 
 ```javascript
-function name_of_function() {}
+fungsi nama_fungsi() {
+
+}
 ```
 
 Kode yang Kamu inginkan untuk menjadi bagian dari sebuah fungsi harus berada di antara kurung kurawal `{` dan `}`.
@@ -9,5 +11,5 @@ Kode yang Kamu inginkan untuk menjadi bagian dari sebuah fungsi harus berada di 
 Kamu bisa memanggil fungsinya dengan mengetik namanya:
 
 ```javascript
-name_of_function();
+nama_fungsi();
 ```

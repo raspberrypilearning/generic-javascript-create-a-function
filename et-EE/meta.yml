@@ -1,7 +1,7 @@
 ---
-title: Creare una funzione in JavaScript
+title: Koosta funktsioon JavaScriptis
 hero_image: images/banner.png
-description: Impara a creare una funzione in JavaScript
+description: Õpi funktsiooni koostama kasutades JavaScripti
 original_url:
 theme: cc-prototype
 duration: 1
@@ -11,4 +11,4 @@ copyedit: true
 interests: ""
 technologies: "javascript"
 steps:
-  - title: Creare una funzione
+  - title: Koosta funktsioon
