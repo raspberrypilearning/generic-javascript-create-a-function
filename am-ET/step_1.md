@@ -1,7 +1,7 @@
 የሚከተለውን ኮድ በመጠቀም አንድ ተግባር (ፋንክሽን) መፍጠር ይችላሉ። የተግባሩ ስም Name_of_function የሚለውን በእርስዎ የተግባር ስም ይተኩት - ይህን ሲያደርጉ የተግባሩን ስም የፊደሎች፣ የቁጥሮች፣ ወይንም፣ የሰረዞች፣ ሰብስብ በመጠቀም መቀመር ይችላሉ።
 
 ```javascript
-function Name_of_function () {
+function name_of_function () {
 
 }
 ```
