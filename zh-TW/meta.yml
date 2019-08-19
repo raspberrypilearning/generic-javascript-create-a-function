@@ -1,7 +1,7 @@
 ---
-title: 用 JavaScript 創建一個函數
-hero_image: 圖片/ banner.png
-description: 學習如何使用 JavaScript 創建函式
+title: 用 JavaScript 建立一個函式
+hero_image: images/banner.png
+description: 學習如何使用 JavaScript 建立函式
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: "javascript"
 steps:
   - 
-    title: 創建一個函式
+    title: 建立一個函式
