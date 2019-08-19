@@ -1,0 +1,14 @@
+---
+title: 用 JavaScript 建立一個函式
+hero_image: images/banner.png
+description: 學習如何使用 JavaScript 建立函式
+original_url:
+theme: cc-prototype
+duration: 1
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "javascript"
+steps:
+  - title: 建立一個函式
