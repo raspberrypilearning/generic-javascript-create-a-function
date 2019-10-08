@@ -1,10 +1,10 @@
 ---
 title: Ustvarite funkcijo v JavaScriptu
-hero_image: images / banner.png
-description: Več o tem, kako ustvariti funkcijo z uporabo JavaScripta
+hero_image: images/banner.png
+description: Naučite se ustvariti JavaScript funkcijo
 original_url:
-theme: cc-prototip
-duration: 1
+theme: cc-prototype
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
