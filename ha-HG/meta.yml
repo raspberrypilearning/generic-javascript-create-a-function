@@ -4,7 +4,7 @@ hero_image: hotuna/banner
 description: Koya yanda ake hada abu indan akayi amfani da Javascript
 original_url:
 theme: cc-prototype
-duration: 0
+duration: 0 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
