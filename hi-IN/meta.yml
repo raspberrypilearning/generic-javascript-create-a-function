@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: जाने कैसे JavaScript में फंक्शन बनाएँ
 original_url:
 theme: cc-प्रोटोटाइप
-duration: 1
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
