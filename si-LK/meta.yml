@@ -1,10 +1,10 @@
 ---
-title: Javascript කාර්යයක්(function එකක්) නිර්මාණය කිරීම 
+title: Javascript කාර්යයක් (function එකක්) නිර්මාණය කිරීම
 hero_image: images / banner.png
-description: JavaScrit මගින් කාර්යයක්(function එකක්) නිර්මාණය කරන්නේ කෙසේදැයි ඉගෙන ගැනීම
+description: JavaScript මගින් කාර්යයක්(function එකක්) නිර්මාණය කරන්නේ කෙසේදැයි ඉගෙන ගැනීම
 original_url:
 theme: cc-ප්‍රදර්ශකය
-duration: 1
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
