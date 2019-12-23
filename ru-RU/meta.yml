@@ -1,14 +1,14 @@
 ---
-title: Создать функцию в JavaScript
+title: Создание функции в JavaScript
 hero_image: images/banner.png
-description: Как создать функцию в JavaScript
+description: Научись создавать функцию используя JavaScript
 original_url:
 theme: cc-prototype
-duration: 1
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
 interests: ""
 technologies: "javascript"
 steps:
-  - title: Создать функцию
+  - title: Создай функцию
