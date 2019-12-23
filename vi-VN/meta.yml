@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: Tìm hiểu cách tạo hàm bằng JavaScript
 original_url:
 theme: nguyên mẫu cc
-duration: 1
+duration: 1 #1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
