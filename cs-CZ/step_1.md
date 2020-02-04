@@ -1,15 +1,15 @@
-You can create a function using the following code. Replace `name_of_function` with the name of your function - make sure you only include letters, numbers and underscores in the name you choose.
+Pomocí následujícího kódu můžeš vytvořit funkci. Nahraď `nazev_funkce` svým vlastním názvem funkce. Ujisti se, že v názvu, který vybereš, používáš pouze písmena, čísla a podtržítka.
 
 ```javascript
-function name_of_function(){
+function nazev_funkce(){
 
 }
 ```
 
-The code you want to be part of the function should go between the braces `{` and `}`.
+Kód, který má být součástí funkce, musí být uvnitř závorek `{` a `}`.
 
-You can call the function by typing its name:
+Funkci můžeš vyvolat napsáním jejího názvu:
 
 ```javascript
-name_of_function();
+nazev_funkce();
 ```
