@@ -1,7 +1,7 @@
-You can create a function using the following code. Replace `name_of_function` with the name of your function - make sure you only include letters, numbers and underscores in the name you choose.
+Du kan skapa en funktion med följande kodlinjer. Byt ut `din_funktions_namn` med namnet på din funktion - se till att du vælger et funktionsnamn som bara innehåller bokstäver, siffror og understreck.
 
 ```javascript
-function name_of_function(){
+function din_funktions_namn() {
 
 }
 ```
@@ -11,5 +11,5 @@ The code you want to be part of the function should go between the braces `{` an
 You can call the function by typing its name:
 
 ```javascript
-name_of_function();
+din_funktions_namn();
 ```
