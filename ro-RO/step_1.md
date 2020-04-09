@@ -1,13 +1,15 @@
-Puteți crea o funcție utilizând următorul cod. Înlocuiți `name_of_function` cu numele funcției dvs. - asigurați-vă că includeți numai litere, cifre și caracterul underscore ( _ ) în numele pe care îl alegeți.
+Poți crea o funcție folosind următorul cod. Înlocuiește `nume_functie` cu numele funcției tale - asigură-te că folosești numai litere, cifre și caracterul underscore în numele pe care îl alegi.
 
 ```javascript
-function name_of_function() {}
+function nume_functie(){
+
+}
 ```
 
-Codul pe care doriți să-l includeți în această funcție ar trebui pus între acoladele `{` și `}`.
+Codul pe care dorești să îl incluzi în această funcție ar trebui pus între acoladele `{` și `}`.
 
-Puteți apela funcția tastând numele ei:
+Poți apela funcția scriind numele ei:
 
 ```javascript
-name_of_function();
+nume_functie();
 ```
