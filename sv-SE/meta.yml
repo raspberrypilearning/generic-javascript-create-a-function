@@ -1,7 +1,7 @@
 ---
-title: Create a function in JavaScript
+title: Skapa en funktion i JavaScript
 hero_image: images/banner.png
-description: Learn how to create a function using JavaScript
+description: Lär dig hur du skapar en funktion i JavaScript
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: "javascript"
 steps:
   - 
-    title: Create a function
+    title: Skapa en funktion
