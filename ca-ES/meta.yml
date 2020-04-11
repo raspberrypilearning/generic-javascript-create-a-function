@@ -1,0 +1,14 @@
+---
+title: Crear una funció a JavaScript
+hero_image: images/banner.png
+description: Aprendre com crear una funció utilitzant JavaScript
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "javascript"
+steps:
+  - title: Crear una funció
