@@ -1,0 +1,14 @@
+---
+title: JavaScript ಒಂದು function ರಚಿಸಿ
+hero_image: images/banner.png
+description: JavaScript ಬಳಸಿ function ಹೇಗೆ ರಚಿಸುವುದು ಎಂದು ತಿಳಿಯಿರಿ
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "javascript"
+steps:
+  - title: Function ರಚಿಸಿ
