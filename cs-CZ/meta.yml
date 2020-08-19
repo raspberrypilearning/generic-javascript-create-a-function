@@ -1,0 +1,14 @@
+---
+title: Vytvoř funkci v jazyce JavaScript
+hero_image: images/banner.png
+description: Nauč se, jak vytvořit funkci v jazyce JavaScript
+original_url:
+theme: cc-prototype
+duration: 1 #1, 2 or 3
+listed: false
+ingredient: true
+copyedit: true
+interests: ""
+technologies: "javascript"
+steps:
+  - title: Vytvoř funkci
