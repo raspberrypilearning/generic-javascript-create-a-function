@@ -1,7 +1,7 @@
 ---
-title: Create a function in JavaScript
+title: JavaScript-இல் ஒரு செயற்கூறை உருவாக்கவும்
 hero_image: images/banner.png
-description: Learn how to create a function using JavaScript
+description: JavaScript-இல் ஒரு செயற்கூறை எவ்வாறு உருவாக்குவது என்று கற்றுக்கொள்ளவும்
 original_url:
 theme: cc-prototype
 duration: 1 #1, 2 or 3
@@ -12,4 +12,4 @@ interests: ""
 technologies: "javascript"
 steps:
   - 
-    title: Create a function
+    title: ஒரு செயற்கூறை உருவாக்கவும்
