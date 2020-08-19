@@ -1,4 +1,4 @@
-You can create a function using the following code. Replace `name_of_function` with the name of your function - make sure you only include letters, numbers and underscores in the name you choose.
+பின்வரும் குறியீட்டை பயன்படுத்தி, நீங்கள் ஒரு செயற்கூறை (function) உருவாக்கலாம். `name_of_function` -ஐ, உங்கள் செயற்கூறின் பெயரால் இடம் மாற்றவும். நீங்கள் தேர்ந்தெடுக்கும் பெயரில், எழுத்துக்கள், எண்கள் மற்றும் அடிக்கீறுகள் மட்டுமே இருக்கவேண்டும் என்பதை நீங்கள் உறுதிப்படுத்திக்கொள்ளுங்கள்.
 
 ```javascript
 function name_of_function(){
@@ -6,9 +6,9 @@ function name_of_function(){
 }
 ```
 
-The code you want to be part of the function should go between the braces `{` and `}`.
+செயற்கூறில் இடம்பெற வேண்டிய குறியீடுகளை, நெழிவு அடைப்புக்குறிகள் `{` மற்றும் `}` இடையில், நீங்கள் இடம்பெற செய்ய வேண்டும்.
 
-You can call the function by typing its name:
+அதன் பெயரை தட்டச்சு செய்யவதன் மூலம், ஒரு செயற்கூறை நீங்கள் அழைக்கலாம்:
 
 ```javascript
 name_of_function();
